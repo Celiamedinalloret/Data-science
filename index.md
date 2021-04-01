@@ -6,6 +6,20 @@
   <ul>
     <li>Introduction</li>
     <ul><li>What is known?</li></ul>
+    <ul><li>A bit of history</li></ul>
+    <ul><li>What is the purpose?</li></ul>
+    <li>Development</li>
+    <ul><li>Data Science and Artificial Intelligence</li></ul>
+    <ul><li>Data Science: a practical approach</li></ul>
+    <ul><li>Natural Language Processing in Spanish language</li></ul>
+    <ul><li>What is the role of a data scientist?</li></ul>
+    <ul><li>What is the link between AI and English language?</li></ul>
+    <ul><li>Spanish language and Artificial Intelligence</li></ul>
+    <ul><li>How does the lack of resourcess affect to Spanish Universities?</li></ul>
+    <li>Conclusions</li>
+    <li>Acknowledgments to collaborators</li>
+   
+    
   </ul>
   
 <h2>Abstract</h2>
