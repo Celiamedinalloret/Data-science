@@ -40,30 +40,4 @@ According to Open Group industry, a data scientist cooperates with business lead
 
 ![Parte 2_Road Map](https://user-images.githubusercontent.com/81699697/113255602-514c4700-92c8-11eb-8b5f-a8145438b82c.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Celiamedinalloret/El-estado-del-arte-de-la-ciencia-de-datos-en-el-idioma-espa-ol-y-su-aplicaci-n-en-el-campo-de-la-Int/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
