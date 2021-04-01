@@ -7,9 +7,6 @@
 
 <body>
 
-<h1><br><center>State of the art of data science in Spanish language and its application in AI</br></center></h1>
-
-<center><p><h4>Description</h4> The study of art provides results that indicate the absence of involvement of Spanish language with AI and all the subareas,</br> <br> which consequently adversely affect to the education of future professionals.</br></p></center>
 
 <center><h2>Abstract</h2></center> 
 <p>This study analyses the state of data science and AI in Spanish language. The motivation is driven by our previous project: https://doi.org/10.21428/39829d0b.d871fa5c - “The art of Artificial Intelligence from a lexical perspective”. The search for information about AI in Spanish language was a failure, so it must rely on English language. This study is divided into two interlinked parts: the first one exposes what data science is, the benefits produced, and the education that a data scientist should have. Therefore, a relation of data science and AI with Spanish language. Questions are raised about how the training of data scientist in Spain is, and the analysis of diagrams, which shows the percentage of Spanish and English academic articles. Moreover, there are many contributions of members and representatives of Latin American Languages Academies. They comment on the lack of AI glossary written in Spanish language. The study of art provides results that indicate the absence of involvement of Spanish with AI and all the subareas, which consequently adversely affect to the education of future professionals. </p>
