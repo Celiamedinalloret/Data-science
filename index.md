@@ -2,6 +2,8 @@
 
 <html>
 <body>
+  <a href="https://orcid.org/0000-0002-8111-6413">ORCID</a>
+  <a href="https://doi.org/10.21428/36973002.4a261345">DOI</a>
   <h2>Contents:</h2>
   <ul>
     <li>Introduction</li>
