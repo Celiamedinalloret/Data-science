@@ -2,7 +2,7 @@
 
 <html>
 <body>
- <script src='fullscreen.js'></script>
+
 ORCID:<a href="https://orcid.org/0000-0002-8111-6413">0000-0002-8111-6413</a>
  DOI:<a href="https://doi.org/10.21428/36973002.4a261345">10.21428/36973002.4a261345</a>
  
@@ -126,6 +126,6 @@ ORCID:<a href="https://orcid.org/0000-0002-8111-6413">0000-0002-8111-6413</a>
 
 
 </body>
-
+ <script src='fullscreen.js'></script> 
 
 </html>
