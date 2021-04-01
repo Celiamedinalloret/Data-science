@@ -38,6 +38,6 @@ In 2006, Jonathan Goldman began working in the social network LinkedIn. He start
 According to Open Group industry, a data scientist cooperates with business leaders to resolve problems by means of comprehension, preparation, and data analyses. In this way, a data scientist could predict emerging trends and offer recommendation with the objective of optimizing commercial outcomes. Therefore, Open Group details certain essential abilities that a data scientist should have to augur well for the future. Some of these qualities are business acumen to understand a problem and seeking a solution. Apart from these attributes, a person dedicated to data science should deal with learning machine to manage predictions (Álvarez y Coll-Serrano, 2018).
 <p>The picture below is a roadmap, at which all of the knowledges and abilities of data scientist or engineer of data are represented. The graphic has been used with the permission of the author, Alexandra Abbas: GitHub url – https://github.com/alexandraabbas.
 
-!(https://user-images.githubusercontent.com/81699697/113255602-514c4700-92c8-11eb-8b5f-a8145438b82c.png)
+https://github.com/Celiamedinalloret/El-estado-del-arte-de-la-ciencia-de-datos-en-el-idioma-espa-ol-y-su-aplicaci-n-en-el-campo-de-la-Int/issues/4#issue-848087555 
 
 
