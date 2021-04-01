@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>State of the art of data science in Spanish language and its application in AI</title>
+
 </head>
 
 <body>
