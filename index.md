@@ -39,6 +39,10 @@ According to Open Group industry, a data scientist cooperates with business lead
 <p>The picture below is a roadmap, at which all of the knowledges and abilities of data scientist or engineer of data are represented. The graphic has been used with the permission of the author, Alexandra Abbas: GitHub url – https://github.com/alexandraabbas.
 https://raw.githubusercontent.com/Celiamedinalloret/El-estado-del-arte-de-la-ciencia-de-datos-en-el-idioma-espa-ol-y-su-aplicaci-n-en-el-campo-de-la-Int/gh-pages/Parte_1_Road_Map.png
   https://celiamedinalloret.github.io/El-estado-del-arte-de-la-ciencia-de-datos-en-el-idioma-espa-ol-y-su-aplicaci-n-en-el-campo-de-la-Int/gh-pages/Parte_1_Road_Map.png
+http://example.net/
+ Parte_1_Road_Map.png
+ ![Una imagen de GitBook](/Parte_1_Road_Map.png)
+
 ```markdown
 Syntax highlighted code block
 
