@@ -123,7 +123,7 @@ ORCID:<a href="https://orcid.org/0000-0002-8111-6413">0000-0002-8111-6413</a>
 <p> Vilares, J. (2005). Aplicaciones del procesamiento del lenguaje natural en la recuperación de información en español [Tesis doctoral, Universidad de Coruña – Departamento de Computación]. http://hdl.handle.net/2183/5682</p>
 <p>W3C Recommendation. (2020, 4 de febrero). Data Catalog Vocabulary (DCAT), V.2. https://www.w3.org/TR/vocab-dcat/#class--dataset </p>
 
-<script src='fullscreen.js'></script> 
+<script src="fullscreen.js"></script> 
 
 </body>
  
