@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# State of the art of data science in Spanish language and its application in AI
 State of the art of data science in Spanish language and its application in the field of AI
 
 ## Summary
