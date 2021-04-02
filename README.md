@@ -31,32 +31,35 @@ Acknowledgments to collaborators
 
 ## How is it used?
 
-<img src="https://assets.pubpub.org/y33ig87w/51614935304139.png"></img>
+This study analyses the state of data science and AI in Spanish language. The motivation is driven by our previous project: https://doi.org/10.21428/39829d0b.d871fa5c - “The art of Artificial Intelligence from a lexical perspective”. The search for information about AI in Spanish language was a failure, so it must rely on English language. This study is divided into two interlinked parts: the first one exposes what data science is, the benefits produced, and the education that a data scientist should have. Therefore, a relation of data science and AI with Spanish language. Questions are raised about how the training of data scientist in Spain is, and the analysis of diagrams, which shows the percentage of Spanish and English academic articles. Moreover, there are many contributions of members and representatives of Latin American Languages Academies. They comment on the lack of AI glossary written in Spanish language. The study of art provides results that indicate the absence of involvement of Spanish with AI and all the subareas, which consequently adversely affect to the education of future professionals. 
 
+Key words: AI, data science, Spanish language and education. 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+Data science, deep learning, machine learning, Spanish language and English Language.
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+We thank organizations and personalities that make possible this project by collaborating on updated information and testimonies which enhance the investigation value.
+
+D. ª Alexandra Abbas     
+
+linkedin.com/in/alexandraabbas
+
+https://datastack.tv/
+
+D. Gonzalo Ortiz Crespo  
+
+linkedin.com/in/gonzalo-ortiz-crespo-b495a81b
+
+http://www.academiaecuatorianadelalengua.org/#
+
+D. ª Maia Sherwood
+
+linkedin.com/in/maia-sherwood-droz-6687061
+
+https://www.academiapr.org/
+
+Miembros de la Academia de la Lengua de Colombia
+
+https://www.academiacolombianadelalengua.co/
